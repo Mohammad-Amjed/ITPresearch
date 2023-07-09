@@ -1,7 +1,7 @@
 // const { Configuration, OpenAIApi } = require('openai');
 
 // const openai = new OpenAIApi(
-//   new Configuration({ apiKey: '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' })
+//   new Configuration({ apiKey: 'YOUR API KEY' })
 // );
 
 // const topic = 'LEAN 3';
